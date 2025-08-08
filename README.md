@@ -29,7 +29,8 @@ The page will reload when you make changes. You may also see any lint errors in 
 
 ## 🌐 Live Demo
 
-Coming soon...
+🌐 Live Demo  
+[https://bakery-clone-01.vercel.app](https://bakery-clone-01.vercel.app)
 
 ## 📝 License
 
