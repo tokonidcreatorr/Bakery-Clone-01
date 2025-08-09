@@ -1,7 +1,7 @@
 # 🍞 Bakery Clone 01
 
 A modern bakery website clone built with React. Designed to showcase delicious pastries, beautiful UI, and smooth functionality.  
-Built with ❤️ by Tokoni Nwankwe.
+Built with ❤️ by Tokoni Nwankwe. If you love this pls support me though this link https://ko-fi.com/tokonidcreator/goal?g=0
 
 ## ✨ Features
 
